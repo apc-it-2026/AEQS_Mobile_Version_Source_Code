@@ -1,0 +1,515 @@
+{
+	navs: [
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '驾驶舱看板',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'驾驶舱看板',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '集团品质看板',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '国家品质看板',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '厂区品质看板',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '产品视角看板',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '流程视角看板',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '管理员',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'管理员',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '用户&权限管理',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '系统数据管理',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '厂区/厂商/产线维护',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '机械设备二维码',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '流程视角看板',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '标准维护',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'标准维护',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '外观检验标准',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '实验室测试标准',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '试穿测试标准',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'TQC检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'RQC巡线检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '色卡确认检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '首件确认检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '抽验检测表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '量试检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'AQL抽验频率',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'AQL检查表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质审核表',
+										path: '../default/default'
+									}
+								]
+							}
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '体系文件',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'体系文件',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质目标',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质流程',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '组织架构',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'WI',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '培训文件',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'adidas文件',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质制度',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质报告',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'QA',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'QA',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'Article QA文件01',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'Article QA文件02',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'BPM案例',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质技术手册',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '测试',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'测试',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '送测登记',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '测试工作清单&结果录入',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '测试报告查询',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '测试留底实物管理',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'T2报告上传',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '量试',
+							path: '#'//具体页面
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '色卡确认',
+							path: '#'
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '首检确认',
+							path: '#'
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'TQC',
+							path: '../default/default'
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'RQC',
+							path: '#'
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '抽验',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'抽验',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '抽验',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '画皮',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'AQL验货',
+							path: '../default/default'
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '金属管控',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'金属管控',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '断针管控',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '测钉',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '金属管控汇总查询',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'ROC',
+							path: '化学品管控',
+							obj:{
+								title:'化学品管控',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '化学品清单',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '化学品管控',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '化学品状态看板',
+										path: '../default/default'
+									}
+								]
+							}
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '检验工具',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'检验工具',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '检验工具清单',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '校正保养',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '检验工具汇总查询',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '合规管控',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'合规管控',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '合规文件清单&维护',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '材料 A-01报告清单&维护',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'Article合规情况汇总查询&提醒功能',
+										path: '../default/default'
+									}
+								]
+							}
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '异常呈报单',
+							path: '#'
+						},
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: 'ROC',
+							path: '客户反馈',
+							obj:{
+								title:'客户反馈',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '不良退货',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质投诉',
+										path: '../default/default'
+									}
+								]
+							}
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '品质审核',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'品质审核',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质审核标准表',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质审核报告汇总查询',
+										path: '../default/default'
+									}
+								]
+							}
+						}, 
+						{
+							icon: 'iconfont icon-shujukanban',
+							title: '品质分析报告',
+							path: '../secondary_page/secondary_page',
+							obj:{
+								title:'品质审核',
+								icons:[
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'QA分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '测试分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '材料品质分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '车间品质分析报告',
+										path: '../default/default'
+									},
+									
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '厂商品质分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: 'AQL验货分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质异常呈报分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '品质审核分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '金属管控分析报告',
+										path: '../default/default'
+									},
+									{
+										icon: 'iconfont icon-shujukanban',
+										title: '退货分析报告',
+										path: '../default/default'
+									}
+								]
+							}
+						}
+					]
+}

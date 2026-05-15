@@ -1,0 +1,2 @@
+Certificate alias: testalias
+Key: caiyt2020

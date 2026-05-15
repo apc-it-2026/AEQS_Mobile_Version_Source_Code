@@ -1,0 +1,218 @@
+{
+	"pages": [{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/setting/setting",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/drawSkin/drawSkin",
+			"style": {
+				"navigationBarTitleText": "画皮"
+			}
+		},
+		{
+			"path": "pages/drawSkin/drawSkinDetail",
+			"style": {
+				"navigationBarTitleText": "画皮详情"
+			}
+		},
+		{
+			"path": "pages/matCheck/matCheck",
+			"style": {
+				"navigationBarTitleText": "原材料检验"
+			}
+		},
+		{
+			"path": "pages/matCheck/matCheckDetail",
+			"style": {
+				"navigationBarTitleText": "原材料检验详情"
+			}
+		},
+		{
+			"path": "pages/labResEntering/labResEntering",
+			"style": {
+				"navigationBarTitleText": "测试工作清单和结果录入"
+			}
+		},
+		{
+			"path": "pages/labResEntering/checkDetail",
+			"style": {
+				"navigationBarTitleText": "检验项详情"
+			}
+		},
+		{
+			"path": "pages/metalCheck/metalCheck",
+			"style": {
+				"navigationBarTitleText": "金属检测"
+			}
+		},
+		{
+			"path": "pages/metalCheck/metalCheckDetail",
+			"style": {
+				"navigationBarTitleText": "金属检测详情"
+			}
+		},
+		{
+			"path": "pages/burrManage/burrManage",
+			"style": {
+				"navigationBarTitleText": "车针管理"
+			}
+		},
+		{
+			"path": "pages/RQC/RQC",
+			"style": {
+				"navigationBarTitleText": "RQC"
+			}
+		},
+		{
+			"path": "pages/RQC/RQCDetail",
+			"style": {
+				"navigationBarTitleText": "RQC任务详情"
+			}
+		},
+		{
+			"path": "pages/batchTry/batchTry",
+			"style": {
+				"navigationBarTitleText": "量试"
+			}
+		},
+		{
+			"path": "pages/batchTry/batchTryDetail",
+			"style": {
+				"navigationBarTitleText": "量试管理"
+			}
+		},
+		{
+			"path": "pages/firstConfirm/firstConfirm",
+			"style": {
+				"navigationBarTitleText": "首件确认"
+			}
+		},
+		{
+			"path": "pages/firstConfirm/firstConfirmDetail",
+			"style": {
+				"navigationBarTitleText": "首件确认详情"
+			}
+		},
+		{
+			"path": "pages/qualityError/qualityError",
+			"style": {
+				"navigationBarTitleText": "品质异常"
+			}
+		},
+		{
+			"path": "pages/qualityError/qualityErrorDetail",
+			"style": {
+				"navigationBarTitleText": "品质异常详情"
+			}
+		},
+		{
+			"path": "pages/RQCcheck/RQCcheck",
+			"style": {
+				"navigationBarTitleText": "RQC审核"
+			}
+		},
+		{
+			"path": "pages/RQCcheck/RQCcheckDetail",
+			"style": {
+				"navigationBarTitleText": "RQC审核详情"
+			}
+		},
+		{
+			"path": "pages/chemiclaManage/chemiclaQRcode",
+			"style": {
+				"navigationBarTitleText": "化学品条码打印"
+			}
+		},
+		{
+			"path": "pages/chemiclaManage/chemiclaSend",
+			"style": {
+				"navigationBarTitleText": "化学品配送"
+			}
+		},
+		{
+			"path": "pages/print/print",
+			"style": {
+				"navigationBarTitleText": "打印"
+			}
+		},
+		{
+			"path": "pages/salesReturn/salesReturn",
+			"style": {
+				"navigationBarTitleText": "中国退货数据录入"
+			}
+		},
+		{
+			"path": "pages/salesReturn/salesReturnDetail",
+			"style": {
+				"navigationBarTitleText": "中国退货数据详情"
+			}
+		},
+		{
+			"path": "pages/utilsUpkeep/utilsUpkeep",
+			"style": {
+				"navigationBarTitleText": "检验工具保养"
+			}
+		},
+		{
+			"path": "pages/glueHandle/glueHandle",
+			"style": {
+				"navigationBarTitleText": "胶水危废处理"
+			}
+		},
+		{
+			"path": "pages/glueHandle/glueHandleDetail",
+			"style": {
+				"navigationBarTitleText": "胶水危废处理详情"
+			}
+		},
+		{
+			"path": "pages/usageControl/usageControl",
+			"style": {
+				"navigationBarTitleText": "容器使用管控"
+			}
+		},
+		{
+			"path": "pages/shoeConfirm/shoeConfirm",
+			"style": {
+				"navigationBarTitleText": "确认鞋库存管理"
+			}
+		},
+		{
+			"path": "pages/RQC_RFT/RQC_RFT",
+			"style": {
+				"navigationBarTitleText": "RQC_RFT",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"navigationBarTitleText": "AEQS",
+		"autoscan": true
+	},
+	"condition": {
+		"current": 0,
+		"list": [{
+			"name": "开发",
+			"pathName": "pages/login/login",
+			"query": ""
+		}]
+	}
+}
